@@ -3,14 +3,11 @@
     "battery-passport": {
       "stakeholders.0.contact": "https://www.rcsglobal.com/"
     },
-    "corposign-did": {
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=app.sis.mydid.net"
+    "anonyome-wallet": {
+      "urlWebsite": "https://sudoplatform.com/identity-wallet/"
     },
     "anonyome-enterprise-wallet": {
       "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
-    },
-    "anonyome-wallet": {
-      "urlWebsite": "https://sudoplatform.com/identity-wallet/"
     },
     "dock-wallet": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
@@ -22,14 +19,14 @@
     "organization-wallet": {
       "urlWebsite": "https://orgwallet.de/en/"
     },
-    "mykeepin": {
-      "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
-    },
     "paradym-wallet": {
       "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet"
     },
     "preparese-mobile": {
       "companyUrl": "https://ufwfoundation.org/"
+    },
+    "mykeepin": {
+      "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
     },
     "trisic-id": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile",
@@ -49,9 +46,15 @@
       "urlAppStore": "https://selfkey.org/selfkey-wallet-ios-download",
       "urlGooglePlayStore": "https://selfkey.org/selfkey-wallet-android-download"
     },
+    "zada": {
+      "urlWebsite": "https://zada.io/"
+    },
     "essif-wallet": {
       "urlWebApp": "https://wallet.essif.sk/",
       "urlWebsite": "https://docs.essif.sk/en/home-english/"
+    },
+    "passivebolt-keyshare": {
+      "companyUrl": "https://passivebolt.com"
     }
   }
 }
