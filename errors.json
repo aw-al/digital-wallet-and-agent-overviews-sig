@@ -3,15 +3,15 @@
     "battery-passport": {
       "stakeholders.0.contact": "https://www.rcsglobal.com/"
     },
-    "dock-wallet": {
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
-      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368"
-    },
     "anonyome-enterprise-wallet": {
       "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
     },
     "anonyome-wallet": {
       "urlWebsite": "https://sudoplatform.com/identity-wallet/"
+    },
+    "dock-wallet": {
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
+      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368"
     },
     "endorser-mobile": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=ch.endorser.mobile"
@@ -22,37 +22,35 @@
     "paradym-wallet": {
       "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet"
     },
-    "preparese-mobile": {
-      "companyUrl": "https://ufwfoundation.org/"
-    },
     "mykeepin": {
       "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
     },
-    "mattr-wallet": {
-      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
+    "preparese-mobile": {
+      "companyUrl": "https://ufwfoundation.org/"
     },
     "trisic-id": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile",
-      "downloadSource": "https://github.com/trinsic-id/wallet-reference-app",
-      "urlAppStore": "https://apps.apple.com/us/app/trinsic-id/id1475160728"
+      "downloadSource": "https://github.com/trinsic-id/wallet-reference-app"
     },
-    "verida": {
-      "urlWebsite": "https://www.verida.io/"
+    "mattr-wallet": {
+      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
     },
     "vidua": {
       "urlAppStore": "https://apps.apple.com/en/app/vidua/id6443842104",
       "urlWebsite": "https://vidua.nl/english/"
     },
+    "verida": {
+      "urlWebsite": "https://www.verida.io/"
+    },
     "vidcredentials": {
-      "urlWebApp": "https://try.vidchain.net/demo",
-      "urlWebsite": "https://www.validatedid.com/en/vidchain/vidcredentials"
+      "urlWebApp": "https://try.vidchain.net/demo"
     },
     "spherity-wallet": {
       "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
     },
     "selfkey-wallet": {
-      "urlAppStore": "https://selfkey.org/selfkey-wallet-ios-download",
-      "urlGooglePlayStore": "https://selfkey.org/selfkey-wallet-android-download"
+      "urlGooglePlayStore": "https://selfkey.org/selfkey-wallet-android-download",
+      "urlAppStore": "https://selfkey.org/selfkey-wallet-ios-download"
     },
     "essif-wallet": {
       "urlWebApp": "https://wallet.essif.sk/",
@@ -60,6 +58,9 @@
     },
     "orbit-edge-wallet": {
       "urlWebsite": "https://northernblock.io/orbit-edge-wallet/"
+    },
+    "orbit-enterprise": {
+      "urlWebsite": "https://northernblock.io/orbit-enterprise/"
     }
   }
 }
