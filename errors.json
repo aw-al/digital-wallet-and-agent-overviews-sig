@@ -7,8 +7,8 @@
       "urlWebsite": "https://atalaprism.io/"
     },
     "dock-wallet": {
-      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368",
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp"
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
+      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368"
     },
     "anonyome-enterprise-wallet": {
       "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
@@ -40,13 +40,13 @@
     },
     "trisic-id": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile",
-      "urlAppStore": "https://apps.apple.com/us/app/trinsic-id/id1475160728",
-      "downloadSource": "https://github.com/trinsic-id/wallet-reference-app"
+      "downloadSource": "https://github.com/trinsic-id/wallet-reference-app",
+      "urlAppStore": "https://apps.apple.com/us/app/trinsic-id/id1475160728"
     },
     "verida": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=io.verida.vault",
-      "urlAppStore": "https://apps.apple.com/tr/app/verida-wallet/id1546599632",
-      "urlWebsite": "https://www.verida.io/"
+      "urlWebsite": "https://www.verida.io/",
+      "urlAppStore": "https://apps.apple.com/tr/app/verida-wallet/id1546599632"
     },
     "mattr-wallet": {
       "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
@@ -57,11 +57,11 @@
     "spherity-wallet": {
       "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
     },
-    "digital-id-wallet": {
-      "urlWebsite": "https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/identity/digital-identity-services/digital-id-wallet"
-    },
     "preparese-mobile": {
       "urlWebsite": "https://www.preparese.info/"
+    },
+    "walt.id": {
+      "urlWebApp": "https://wallet.walt.id/"
     }
   }
 }
