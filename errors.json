@@ -6,9 +6,15 @@
     "atala-prism": {
       "urlWebsite": "https://atalaprism.io/"
     },
+    "anonyome-enterprise-wallet": {
+      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
+    },
     "dock-wallet": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
       "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368"
+    },
+    "anonyome-wallet": {
+      "urlWebsite": "https://sudoplatform.com/identity-wallet/"
     },
     "endorser-mobile": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=ch.endorser.mobile"
@@ -17,48 +23,49 @@
       "urlWebApp": "https://wallet.essif.sk/",
       "urlWebsite": "https://docs.essif.sk/en/home-english/"
     },
-    "anonyome-enterprise-wallet": {
-      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
-    },
-    "anonyome-wallet": {
-      "urlWebsite": "https://sudoplatform.com/identity-wallet/"
-    },
     "gimly": {
       "urlWebsite": "https://gimly.io/"
     },
     "organization-wallet": {
       "urlWebsite": "https://orgwallet.de/en/"
     },
-    "paradym-wallet": {
-      "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet"
-    },
     "preparese-mobile": {
       "urlWebsite": "https://www.preparese.info/"
     },
-    "spherity-wallet": {
-      "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
-    },
-    "trisic-id": {
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile",
-      "urlAppStore": "https://apps.apple.com/us/app/trinsic-id/id1475160728",
-      "downloadSource": "https://github.com/trinsic-id/wallet-reference-app"
+    "paradym-wallet": {
+      "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet"
     },
     "mykeepin": {
       "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
     },
+    "trisic-id": {
+      "urlAppStore": "https://apps.apple.com/us/app/trinsic-id/id1475160728",
+      "downloadSource": "https://github.com/trinsic-id/wallet-reference-app",
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile",
+      "urlWebsite": "https://trinsic.id/an-introduction-to-the-trinsic-wallet/"
+    },
     "verida": {
       "urlAppStore": "https://apps.apple.com/tr/app/verida-wallet/id1546599632",
-      "urlWebsite": "https://www.verida.io/",
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=io.verida.vault"
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=io.verida.vault",
+      "urlWebsite": "https://www.verida.io/"
+    },
+    "mattr-wallet": {
+      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
     },
     "vidua": {
       "urlWebsite": "https://vidua.nl/english/"
     },
+    "spherity-wallet": {
+      "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
+    },
     "gataca-studio": {
       "urlWebsite": "https://gataca.io/products/gatacaStudio/"
     },
-    "mattr-wallet": {
-      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
+    "trisic-platform": {
+      "urlWebsite": "https://trinsic.id/platform/"
+    },
+    "corposign-did": {
+      "urlWebsite": "https://sis.lt/"
     },
     "walt.id": {
       "urlWebApp": "https://wallet.walt.id/"
