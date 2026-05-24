@@ -29,16 +29,11 @@
     "organization-wallet": {
       "urlWebsite": "https://orgwallet.de/en/"
     },
-    "paradym-wallet": {
-      "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet",
-      "urlAppStore": "https://apps.apple.com/nl/app/paradym-wallet/id6449846111?l=en"
-    },
     "preparese-mobile": {
       "urlWebsite": "https://www.preparese.info/"
     },
-    "mykeepin": {
-      "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet",
-      "urlAppStore": "https://apps.apple.com/kr/app/mykeepin-%EC%BD%94%EC%9D%B8%ED%94%8C%EB%9F%AC%EA%B7%B8-%EB%94%94%EC%A7%80%ED%84%B8-id/id1479166844"
+    "paradym-wallet": {
+      "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet"
     },
     "trisic-id": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile",
@@ -54,46 +49,23 @@
     "sowl": {
       "urlWebsite": "https://esatus.com/en/digital-identity/"
     },
+    "mykeepin": {
+      "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
+    },
     "sphereon-wallet": {
       "urlWebsite": "https://sphereon.com/sphereon-products/sphereon-wallet/"
-    },
-    "vidua": {
-      "urlWebsite": "https://vidua.nl/english/",
-      "urlAppStore": "https://apps.apple.com/en/app/vidua/id6443842104"
-    },
-    "mattr-wallet": {
-      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview",
-      "urlAppStore": "https://apps.apple.com/us/app/mattr-wallet/id1518660243"
     },
     "spherity-wallet": {
       "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
     },
-    "zada": {
-      "urlAppStore": "https://apps.apple.com/us/app/zada-wallet/id1578666669"
+    "mattr-wallet": {
+      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
     },
-    "blockcerts-wallet": {
-      "urlAppStore": "https://itunes.apple.com/us/app/blockcerts-wallet/id1146921514?mt=8"
-    },
-    "kaytrust-wallet": {
-      "urlAppStore": "https://apps.apple.com/us/app/mytrust-wallet/id1477073898"
+    "vidua": {
+      "urlWebsite": "https://vidua.nl/english/"
     },
     "gataca-studio": {
       "urlWebsite": "https://gataca.io/products/gatacaStudio/"
-    },
-    "talao": {
-      "urlAppStore": "https://apps.apple.com/app/talao-wallet/id1582183266#?platform=iphone"
-    },
-    "authenticator": {
-      "urlAppStore": "https://go.microsoft.com/fwlink/p/?linkid=2168643&clcid=0x409"
-    },
-    "yivi": {
-      "urlAppStore": "https://itunes.apple.com/nl/app/irma-authentication/id1294092994"
-    },
-    "altme": {
-      "urlAppStore": "https://apps.apple.com/fr/app/altme/id1633216869"
-    },
-    "igrant.io-data-wallet": {
-      "urlAppStore": "https://apple.co/2Mz9nJp"
     },
     "trisic-platform": {
       "urlWebsite": "https://trinsic.id/platform/"
