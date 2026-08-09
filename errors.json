@@ -6,37 +6,43 @@
     "atala-prism": {
       "urlWebsite": "https://atalaprism.io/"
     },
+    "bc-wallet": {
+      "urlWebsite": "https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet"
+    },
+    "aceid-wallet": {
+      "urlWebsite": "https://www.aceblock.com/modules/aceid/"
+    },
     "dock-wallet": {
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
-      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368"
+      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368",
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp"
     },
     "endorser-mobile": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=ch.endorser.mobile"
+    },
+    "anonyome-enterprise-wallet": {
+      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
+    },
+    "anonyome-wallet": {
+      "urlWebsite": "https://sudoplatform.com/identity-wallet/"
     },
     "essif-wallet": {
       "urlWebApp": "https://wallet.essif.sk/",
       "urlWebsite": "https://docs.essif.sk/en/home-english/"
     },
-    "anonyome-wallet": {
-      "urlWebsite": "https://sudoplatform.com/identity-wallet/"
-    },
     "gimly": {
       "urlWebsite": "https://gimly.io/"
-    },
-    "anonyome-enterprise-wallet": {
-      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
     },
     "identry": {
       "urlAppStore": "https://apps.apple.com/us/app/identry/id1609224919"
     },
+    "lissi-eudi-wallet-connector": {
+      "urlWebApp": "https://www.lissi.id/?r=0#user-flow",
+      "companyUrl": "https://www.lissi.id/",
+      "urlWebsite": "https://www.lissi.id/eudi-wallet-connector"
+    },
     "lissi-wallet": {
       "companyUrl": "https://www.lissi.id/",
       "urlWebsite": "https://www.lissi.id/for-users"
-    },
-    "lissi-eudi-wallet-connector": {
-      "urlWebsite": "https://www.lissi.id/eudi-wallet-connector",
-      "urlWebApp": "https://www.lissi.id/?r=0#user-flow",
-      "companyUrl": "https://www.lissi.id/"
     },
     "organization-wallet": {
       "urlWebsite": "https://orgwallet.de/en/"
@@ -63,11 +69,11 @@
     "sowl": {
       "urlWebsite": "https://esatus.com/en/digital-identity/"
     },
-    "sphereon-wallet": {
-      "urlWebsite": "https://sphereon.com/sphereon-products/sphereon-wallet/"
-    },
     "mattr-wallet": {
       "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
+    },
+    "sphereon-wallet": {
+      "urlWebsite": "https://sphereon.com/sphereon-products/sphereon-wallet/"
     },
     "spherity-wallet": {
       "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
@@ -84,8 +90,11 @@
     "vidua": {
       "urlWebsite": "https://vidua.nl/english/"
     },
-    "bc-wallet": {
-      "urlWebsite": "https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet"
+    "orbit-edge-wallet": {
+      "urlWebsite": "https://northernblock.io/orbit-edge-wallet/"
+    },
+    "orbit-enterprise": {
+      "urlWebsite": "https://northernblock.io/orbit-enterprise/"
     }
   }
 }
