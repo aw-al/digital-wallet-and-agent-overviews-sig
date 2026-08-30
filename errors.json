@@ -13,12 +13,12 @@
     "anonyome-wallet": {
       "urlWebsite": "https://sudoplatform.com/identity-wallet/"
     },
-    "anonyome-enterprise-wallet": {
-      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
-    },
     "essif-wallet": {
       "urlWebApp": "https://wallet.essif.sk/",
       "urlWebsite": "https://docs.essif.sk/en/home-english/"
+    },
+    "anonyome-enterprise-wallet": {
+      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
     },
     "endorser-mobile": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=ch.endorser.mobile"
@@ -29,43 +29,45 @@
     "identry": {
       "urlAppStore": "https://apps.apple.com/us/app/identry/id1609224919"
     },
-    "lissi-eudi-wallet-connector": {
-      "companyUrl": "https://www.lissi.id/",
-      "urlWebApp": "https://www.lissi.id/?r=0#user-flow",
-      "urlWebsite": "https://www.lissi.id/eudi-wallet-connector"
-    },
     "lissi-wallet": {
       "companyUrl": "https://www.lissi.id/",
       "urlWebsite": "https://www.lissi.id/for-users"
     },
+    "lissi-eudi-wallet-connector": {
+      "companyUrl": "https://www.lissi.id/",
+      "urlWebsite": "https://www.lissi.id/eudi-wallet-connector",
+      "urlWebApp": "https://www.lissi.id/?r=0#user-flow"
+    },
     "holdr": {
       "urlWebsite": "https://indicio.tech/holdr/"
     },
-    "mykeepin": {
-      "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
+    "orbit-edge-wallet": {
+      "urlAppStore": "https://apps.apple.com/us/app/orbit-edge/id1508037063"
     },
     "organization-wallet": {
       "urlWebsite": "https://orgwallet.de/en/"
     },
-    "preparese-mobile": {
-      "urlWebsite": "https://www.preparese.info/"
+    "mykeepin": {
+      "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
     },
     "paradym-wallet": {
       "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet"
     },
-    "mattr-wallet": {
-      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
+    "preparese-mobile": {
+      "urlWebsite": "https://www.preparese.info/"
     },
     "trisic-id": {
       "urlAppStore": "https://apps.apple.com/us/app/trinsic-id/id1475160728",
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile",
-      "downloadSource": "https://github.com/trinsic-id/wallet-reference-app",
-      "urlWebsite": "https://trinsic.id/an-introduction-to-the-trinsic-wallet/"
+      "downloadSource": "https://github.com/trinsic-id/wallet-reference-app"
     },
     "verida": {
       "urlAppStore": "https://apps.apple.com/tr/app/verida-wallet/id1546599632",
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=io.verida.vault",
       "urlWebsite": "https://www.verida.io/"
+    },
+    "mattr-wallet": {
+      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
     },
     "sowl": {
       "urlWebsite": "https://esatus.com/en/digital-identity/"
@@ -82,32 +84,11 @@
     "gataca-studio": {
       "urlWebsite": "https://gataca.io/products/gatacaStudio/"
     },
-    "vidua": {
-      "urlWebsite": "https://vidua.nl/english/"
-    },
-    "atala-prism": {
-      "urlWebsite": "https://atalaprism.io/"
-    },
-    "igrant.io-data-wallet": {
-      "urlAppStore": "https://apple.co/2Mz9nJp"
-    },
-    "procivis-one": {
-      "urlWebsite": "https://www.procivis.ch/en/procivis-one"
-    },
-    "selfkey-wallet": {
-      "urlAppStore": "https://selfkey.org/selfkey-wallet-ios-download",
-      "urlGooglePlayStore": "https://selfkey.org/selfkey-wallet-android-download",
-      "urlWebsite": "https://selfkey.org/selfkey-wallet/"
-    },
     "trisic-platform": {
       "urlWebsite": "https://trinsic.id/platform/"
     },
-    "vidwallet": {
-      "urlWebsite": "https://www.validatedid.com/en/vidchain/vidwallet"
-    },
-    "yivi": {
-      "urlAppStore": "https://itunes.apple.com/nl/app/irma-authentication/id1294092994",
-      "urlWebsite": "https://irma.app/docs/yivi-app/"
+    "vidua": {
+      "urlWebsite": "https://vidua.nl/english/"
     }
   }
 }
