@@ -7,21 +7,21 @@
       "urlWebsite": "https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet"
     },
     "dock-wallet": {
-      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368",
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp"
-    },
-    "anonyome-wallet": {
-      "urlWebsite": "https://sudoplatform.com/identity-wallet/"
-    },
-    "essif-wallet": {
-      "urlWebApp": "https://wallet.essif.sk/",
-      "urlWebsite": "https://docs.essif.sk/en/home-english/"
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
+      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368"
     },
     "anonyome-enterprise-wallet": {
       "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
     },
+    "anonyome-wallet": {
+      "urlWebsite": "https://sudoplatform.com/identity-wallet/"
+    },
     "endorser-mobile": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=ch.endorser.mobile"
+    },
+    "essif-wallet": {
+      "urlWebsite": "https://docs.essif.sk/en/home-english/",
+      "urlWebApp": "https://wallet.essif.sk/"
     },
     "gimly": {
       "urlWebsite": "https://gimly.io/"
@@ -34,12 +34,9 @@
       "urlWebsite": "https://www.lissi.id/for-users"
     },
     "lissi-eudi-wallet-connector": {
-      "companyUrl": "https://www.lissi.id/",
       "urlWebsite": "https://www.lissi.id/eudi-wallet-connector",
+      "companyUrl": "https://www.lissi.id/",
       "urlWebApp": "https://www.lissi.id/?r=0#user-flow"
-    },
-    "holdr": {
-      "urlWebsite": "https://indicio.tech/holdr/"
     },
     "orbit-edge-wallet": {
       "urlAppStore": "https://apps.apple.com/us/app/orbit-edge/id1508037063"
@@ -47,27 +44,30 @@
     "organization-wallet": {
       "urlWebsite": "https://orgwallet.de/en/"
     },
+    "preparese-mobile": {
+      "urlWebsite": "https://www.preparese.info/"
+    },
+    "holdr": {
+      "urlWebsite": "https://indicio.tech/holdr/"
+    },
     "mykeepin": {
       "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
     },
     "paradym-wallet": {
       "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet"
     },
-    "preparese-mobile": {
-      "urlWebsite": "https://www.preparese.info/"
+    "mattr-wallet": {
+      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
     },
     "trisic-id": {
-      "urlAppStore": "https://apps.apple.com/us/app/trinsic-id/id1475160728",
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile",
+      "urlAppStore": "https://apps.apple.com/us/app/trinsic-id/id1475160728",
       "downloadSource": "https://github.com/trinsic-id/wallet-reference-app"
     },
     "verida": {
-      "urlAppStore": "https://apps.apple.com/tr/app/verida-wallet/id1546599632",
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=io.verida.vault",
+      "urlAppStore": "https://apps.apple.com/tr/app/verida-wallet/id1546599632",
       "urlWebsite": "https://www.verida.io/"
-    },
-    "mattr-wallet": {
-      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
     },
     "sowl": {
       "urlWebsite": "https://esatus.com/en/digital-identity/"
@@ -75,20 +75,20 @@
     "sphereon-wallet": {
       "urlWebsite": "https://sphereon.com/sphereon-products/sphereon-wallet/"
     },
-    "spherity-wallet": {
-      "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
-    },
     "walt.id": {
       "urlWebApp": "https://wallet.walt.id/"
+    },
+    "spherity-wallet": {
+      "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
     },
     "gataca-studio": {
       "urlWebsite": "https://gataca.io/products/gatacaStudio/"
     },
-    "trisic-platform": {
-      "urlWebsite": "https://trinsic.id/platform/"
-    },
     "vidua": {
       "urlWebsite": "https://vidua.nl/english/"
+    },
+    "trisic-platform": {
+      "urlWebsite": "https://trinsic.id/platform/"
     }
   }
 }
